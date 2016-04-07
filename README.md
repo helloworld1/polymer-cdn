@@ -1,4 +1,4 @@
-# polymer-cdn <sup><sub>v1.2.3.2</sub></sup>
+# polymer-cdn <sup><sub>v1.4.0</sub></sup>
 **A mirror of Polymer's components so that they can be used directly from CDN**
 
 ![Polymer CDN is powered by MaxCDN](http://i.imgur.com/9obTXpk.png)
